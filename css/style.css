@@ -18,8 +18,11 @@
     width: 100px;
     background-color: green;
     border: 1px solid black;
+    text-align: center;
+    font-size: 35px;
+    color: black;
 }
 
 .quadrato.clicco {
-    background-color: red;
+    background-color:yellow;
 }
