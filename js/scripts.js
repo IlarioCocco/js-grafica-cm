@@ -7,4 +7,9 @@ function numeroQuadrati(quadratini) {
 var quadratini = prompt("inserisci il numero di Quadratini");
 numeroQuadrati(quadratini);
 
-document.getElementById("")
+document.getElementById("campo").addEventListener("click",
+    function(event) {
+        event.target.classList.add("click")
+    }
+
+);
