@@ -11,8 +11,10 @@ document.getElementById("campo").addEventListener("click",
     function(event) {
         // l'elemento del dom su cui clicco
         event.target.classList.add("clicco")
+       
     }
 
 );
 
 console.log(quadratini);
+
